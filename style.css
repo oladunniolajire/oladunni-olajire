@@ -1,0 +1,56 @@
+h5{
+text-align:center;}
+.email{
+color:green;
+}
+.nysc{
+color:green;
+}
+.staff{
+color:green;
+}
+.degree{
+color:green;
+}
+.ijmb{
+color:green
+}
+.ssce{
+color:green;
+}
+.jsce{
+color:green;
+}
+.primary{
+color:green;
+}
+.web{
+color:green;
+}
+.data{
+color:green;
+}
+img.picture{
+border-radius:50px;
+}
+header{grid-area:header;
+padding:20px;
+}
+article{
+grid area: content;
+padding:20px;
+}
+.container{
+
+dispay:grid;
+grid-template-columns:100px 200px;
+grid-template-rows:100px 50px;
+}
+grid-column-gap:25px;
+grid-row-gap:25px;
+grid-template-areas:
+"header header"
+"content content";
+h1{
+text-align:center;
+}
